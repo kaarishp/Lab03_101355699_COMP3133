@@ -6,5 +6,5 @@ Postman Screenshot Images
 ![CuisineItalian](postman/CuisineItalian.png)
 ![CuisineJapanese](postman/CuisineJapanese.png)
 ![CuisineBakery](postman/CuisineBakery.png)
-![SortingByASC](postman/SortingByASC.png)
+![SortingByASC](postman/SortByASC.png)
 ![Delicatessen](postman/Delicatessen.png)
